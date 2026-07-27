@@ -1,6 +1,7 @@
 # Embracing Multi-Label Speech Emotion Recognition Using the All-Inclusive Aggregation Rule
 
 [![Paper](https://img.shields.io/badge/IEEE%20SLT%202024-Paper-00629B?style=flat-square)](https://doi.org/10.1109/SLT61566.2024.10832302)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21616027.svg)](https://doi.org/10.5281/zenodo.21616027)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 Official implementation of **Embracing Ambiguity and Subjectivity Using the All-Inclusive Aggregation Rule for Evaluating Multi-Label Speech Emotion Recognition Systems**, published at the 2024 IEEE Spoken Language Technology Workshop (SLT), pages 502-509.
