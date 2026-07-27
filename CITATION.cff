@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+title: "Embracing Multi-Label Speech Emotion Recognition Using the All-Inclusive Aggregation Rule"
+repository-code: "https://github.com/ag027592/Embracing-Multi-Label"
+license: MIT
+authors:
+  - family-names: Chou
+    given-names: Huang-Cheng
+  - family-names: Wu
+    given-names: Haibin
+  - family-names: Goncalves
+    given-names: Lucas
+  - family-names: Leem
+    given-names: Seong-Gyun
+  - family-names: Salman
+    given-names: Ali N.
+  - family-names: Busso
+    given-names: Carlos
+  - family-names: Lee
+    given-names: Hung-yi
+  - family-names: Lee
+    given-names: Chi-Chun
+preferred-citation:
+  type: conference-paper
+  title: "Embracing Ambiguity And Subjectivity Using The All-Inclusive Aggregation Rule For Evaluating Multi-Label Speech Emotion Recognition Systems"
+  collection-title: "2024 IEEE Spoken Language Technology Workshop (SLT)"
+  year: 2024
+  start: 502
+  end: 509
+  doi: "10.1109/SLT61566.2024.10832302"
+  authors:
+    - family-names: Chou
+      given-names: Huang-Cheng
+    - family-names: Wu
+      given-names: Haibin
+    - family-names: Goncalves
+      given-names: Lucas
+    - family-names: Leem
+      given-names: Seong-Gyun
+    - family-names: Salman
+      given-names: Ali N.
+    - family-names: Busso
+      given-names: Carlos
+    - family-names: Lee
+      given-names: Hung-yi
+    - family-names: Lee
+      given-names: Chi-Chun
